@@ -1,0 +1,14 @@
+lib/
+├── main.dart
+├── models/
+│   └── mental_health_app.dart
+├── screens/
+│   ├── dashboard_screen.dart
+│   └── apps/
+│       ├── anxiety_anchor_screen.dart
+│       └── autismo_sinfonia_screen.dart
+└── widgets/
+    └── app_card.dart
+
+
+25/07/2026
